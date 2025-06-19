@@ -1,5 +1,5 @@
 #!/bin/bash
-# PAOTA shadowsocks/ss SERVER 一键安装脚本
+# PAOTA SS SERVER 一键安装脚本
 
 
 RED="\033[31m"      # Error message
