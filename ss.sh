@@ -581,9 +581,8 @@ showLog() {
 menu() {
     clear
     echo "#############################################################"
-    echo -e "#              ${RED}PAOTA Shadowsocks/SS SERVER一键安装脚本${PLAIN}                #"
-    echo -e "# ${GREEN}作者${PLAIN}: PAOTA                                     #"
-    echo -e "# ${GREEN}网址${PLAIN}: www.xiaopaota.com                                   #"
+    echo -e "              ${RED}PAOTA SS SERVER一键安装脚本${PLAIN}           "
+    echo -e " ${GREEN}作者${PLAIN}: PAOTA"
     echo "#############################################################"
     echo ""
 
